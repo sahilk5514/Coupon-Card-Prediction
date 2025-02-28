@@ -1,4 +1,4 @@
 # Coupon-Card-Prediction
-coupon card prediction Author 
+coupon card prediction
 <br>
--Sahil Khedkar
+Author -Sahil Khedkar
